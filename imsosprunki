@@ -1,0 +1,4 @@
+--Author: LightGray2
+local TextChatService = game:GetService("TextChatService")
+local channel = TextChatService.TextChannels.RBXGeneral
+channel:SendAsync("imsosprunki")
