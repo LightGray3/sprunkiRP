@@ -1,0 +1,5 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2673.486083984375, 7.04437780380249, -3423.221435546875)
+local NotificationLibrary = loadstring(game:HttpGet("https://pastebin.com/raw/wiPVTwLB"))()
+NotificationLibrary:SendNotification("Success", "Obtained badge", 0.50)
+task.wait(0.050)
+NotificationLibrary:SendNotification("Success", "[Normal!]", 1)
