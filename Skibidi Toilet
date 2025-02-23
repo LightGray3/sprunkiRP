@@ -1,0 +1,5 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(244.20111083984375, 5.216554164886475, 809.4893188476562)
+local NotificationLibrary = loadstring(game:HttpGet("https://pastebin.com/raw/wiPVTwLB"))()
+NotificationLibrary:SendNotification("Success", "Obtained badge", 0.50)
+task.wait(0.050)
+NotificationLibrary:SendNotification("Success", "[Skibidi Toilet]", 1)
