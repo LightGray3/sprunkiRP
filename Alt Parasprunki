@@ -1,0 +1,5 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1395.9044189453125, 23.702791213989258, -1266.6778564453125)
+local NotificationLibrary = loadstring(game:HttpGet("https://pastebin.com/raw/wiPVTwLB"))()
+NotificationLibrary:SendNotification("Success", "Obtained badge", 0.50)
+task.wait(0.050)
+NotificationLibrary:SendNotification("Success", "[Parasprunki alt]", 1)
